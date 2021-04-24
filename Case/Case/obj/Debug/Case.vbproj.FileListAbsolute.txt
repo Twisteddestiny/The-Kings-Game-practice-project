@@ -1,0 +1,11 @@
+C:\Users\proje\source\repos\Case\Case\bin\Debug\Case.exe.config
+C:\Users\proje\source\repos\Case\Case\bin\Debug\Case.exe
+C:\Users\proje\source\repos\Case\Case\bin\Debug\Case.pdb
+C:\Users\proje\source\repos\Case\Case\bin\Debug\Case.xml
+C:\Users\proje\source\repos\Case\Case\obj\Debug\Case.vbprojAssemblyReference.cache
+C:\Users\proje\source\repos\Case\Case\obj\Debug\Case.Resources.resources
+C:\Users\proje\source\repos\Case\Case\obj\Debug\Case.vbproj.GenerateResource.cache
+C:\Users\proje\source\repos\Case\Case\obj\Debug\Case.vbproj.CoreCompileInputs.cache
+C:\Users\proje\source\repos\Case\Case\obj\Debug\Case.exe
+C:\Users\proje\source\repos\Case\Case\obj\Debug\Case.xml
+C:\Users\proje\source\repos\Case\Case\obj\Debug\Case.pdb
