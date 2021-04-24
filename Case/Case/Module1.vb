@@ -14,7 +14,7 @@
             Console.WriteLine("(8) Do the Masterminds know about what's going on inside the hotel?")
             Console.WriteLine("(9) Are the hosts of the game both homophobes and child haters?")
             Console.WriteLine("(10) Is the festival actually the Death Game itself?")
-            'Console.WriteLine("(11) ")
+            Console.WriteLine("(11) Does Caine have anything to do with Kasha's suicide? ")
             Console.WriteLine("Please enter a selection")
 
             num1 = Console.ReadLine()
@@ -40,6 +40,9 @@ seemingly suspicious behaviour? Without thinking that maybe everyone has somethi
                     Console.WriteLine("No. No he is not. He's simply finding something he can latch on to and exploit.")
                 Case 10
                     Console.WriteLine("To that, I say who knows?")
+                Case 11
+                    Console.WriteLine("No. Kasha's suicide was entirely her own doing. There was no influence other than the untimely death of Misha.")
+                    Console.WriteLine("No. Kasha's suicide was entirely her own doing. There was no influence other than the untimely death of Misha.")
                 Case Else
                     flag = "on"
                     Console.WriteLine("That isn't an option. The program will now close. Please open it again if you have any more questions.")
